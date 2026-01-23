@@ -115,3 +115,12 @@ Key Trends:
 - The Setup: In a romance scam, the victim is told the "partner" doesn't have access to their own bank account.
 - The Task: They are told that others will send money to the victim, and the victim must convert that money into cryptocurrency or gift cards to send to the partner.
 - The Reality: The victim has become a money launderer without knowing it.
+
+# Slide 14
+## Specific Example: Job Scams (The Fastest Growing)
+
+- The Solicitation: Victims are contacted via unsolicited SMS (text messages) or social media apps like Telegram and WhatsApp. They often use the names of real, reputable Canadian companies to gain trust.
+- The Task Hook: The offer is usually for a remote data entry or product optimizer role. Victims are asked to complete simple tasks—like rating videos or boosting products—to earn commissions.
+- The Trap: To level up to higher-paying tasks or to reset a negative balance in their account, the victim is told they must deposit their own funds, usually via cryptocurrency.
+- The Outcome: The platform shows fake earnings that look real, but withdrawals are blocked by fees or taxes.
+- Trend Note: Per the 2024 CAFC report, job scams saw the largest increase in dollar loss ($17M increase) due to the rise of these task-based schemes.

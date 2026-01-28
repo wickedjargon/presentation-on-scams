@@ -1,5 +1,5 @@
-# Slide 1
-## Summary: Overall Dollar Loss Breakdown (2020–2024)
+## Slide 1
+### Summary: Overall Dollar Loss Breakdown (2020–2024)
 
 - Source: Data sourced from CAFC (Canadian Anti-Fraud Centre).
 - Reporting Reality: It is estimated that the reporting rate is only 5%–10%.
@@ -11,10 +11,9 @@ Graph Description / Speaker Notes:
 Source:
 [CAFC 2024 Annual Statistical Report](https://cneo-nceo.ca/wp-content/uploads/CAFC-Annual-Stats-Report-2024-EN.pdf) - Page 20
 
----
 
-# Slide 2
-## Summary: Solicitation Method Breakdown by Dollar (2024)
+## Slide 2
+### Summary: Solicitation Method Breakdown by Dollar (2024)
 
 - Graph showing breakdown by solicitation method.
 - Key Insight: Cyber-Enabled Fraud relates to only 4 of the 13 solicitation methods.
@@ -26,10 +25,9 @@ Graph Description / Speaker Notes:
 Source:
 [CAFC 2024 Annual Statistical Report](https://cneo-nceo.ca/wp-content/uploads/CAFC-Annual-Stats-Report-2024-EN.pdf) - Page 14
 
----
 
-# Slide 3
-## Summary: Top 10 Frauds Based on Dollar Loss
+## Slide 3
+### Summary: Top 10 Frauds Based on Dollar Loss
 
 - investment scam: example: invest in a cryptocurrency project 
 - spear phishing: example: a scammer impersonating your boss via email to request an urgent wire transfer
@@ -38,10 +36,9 @@ Source:
 - extortion: example: sextortion—blackmail using intimate images, or threats to expose browsing history
 - service scam: example: a person posing as a service provider to get money from you (tech support)
 - 
----
 
-# Slide 4
-## Summary: Key Trends Found in CAFC Reports
+## Slide 4
+### Summary: Key Trends Found in CAFC Reports
 
 Key Trends:
 
@@ -55,20 +52,18 @@ Key Trends:
 * Service Scams: Impacted victims aged 30 and older, with seniors targeted the most.
 * Demographic Summary: Reporting shows that individuals under the age of 50 are more likely to be victimized by fraud (frequency), while those over the age of 50 lose more money on average per fraud (severity).
 
----
 
-# Slide 5
-## Specific Example: Home for Rent
+## Slide 5
+### Specific Example: Home for Rent
 
 - The Setup: A scammer posing as a landlord posts an apartment for rent, usually at an unrealistically low price.
 - The Hook: The scammer claims the unit is not available for viewing because they are out of town, but encourages the prospective renter to view the surrounding area and online images.
 - The Trap: The scammer states that once the first and last month's rent is paid, they will ship the keys to the renter.
 - The Outcome: Of course, the keys are never shipped.
 
----
 
-# Slide 6
-## Specific Example: Romance Scam
+## Slide 6
+### Specific Example: Romance Scam
 
 - The Setup: A scammer posing as a prospective date contacts a victim.
 - Targeting: Scammers often look for older people whose social media shows them alone in most or all photos.
@@ -77,47 +72,42 @@ Key Trends:
 - The Trap: The scammer pretends there is *just one thing* left to pay for (e.g., medical bill, plane ticket) before they can meet the victim in person, but this never happens.
 - Visual Note: *[Use Gemini to produce an image of a celebrity in the hospital to demonstrate how AI image generation can deceive victims.]*
 
----
 
-# Slide 7
-## Specific Example: Investment Scam
+## Slide 7
+### Specific Example: Investment Scam
 
 - Crypto Dominance: Cryptocurrency fraud makes up 70%+ of investment scam losses ($224M+ in 2024).
 - Fake Platforms: Victims are lured to professional-looking trading websites that show fake gains—withdrawals are blocked.
 - AI Deepfakes: Scammers use AI-altered videos of celebrities endorsing fake crypto projects.
 - The Hook: Promises of "guaranteed" high returns with no risk.
 
----
 
-# Slide 8
-## Specific Example: Unpaid Tax Scam
+## Slide 8
+### Specific Example: Unpaid Tax Scam
 
 - The Threat: The victim is told they have unpaid taxes and is threatened with legal action or arrest.
 - The Payment: The victim is told to purchase gift cards to repay taxes.
 - The Lie: These are referred to as "tax vouchers," and the scammer claims that because the taxes are so late, normal payment methods are no longer available.
 
----
 
-# Slide 9
-## Specific Example: Tech Support Scam
+## Slide 9
+### Specific Example: Tech Support Scam
 
 - The Setup: A victim types in a URL but misspells it (typosquatting) and goes to a scam website.
 - The Scare: The website attempts to deceive the user into thinking their system is infected with a virus. A tech support number is provided.
 - The Pitch: When the victim calls, they are presented with 1-year, 2-year, 3-year, and lifetime anti-malware options.
 - The Lie: The victim is told that since the virus is on their "home network," taking their computer to a local service center will not fix it.
 
----
 
-# Slide 10
-## Specific Example: Lottery/Prize Scam
+## Slide 10
+### Specific Example: Lottery/Prize Scam
 
 - The Hook: The victim is told they have won a lottery.
 - The Catch: In order to receive the winnings, they must pay an upfront fee (e.g., taxes or customs duties).
 
----
 
-# Slide 11
-## Money Mules: Complicit vs. Unknowing
+## Slide 11
+### Money Mules: Complicit vs. Unknowing
 
 **Unknowing Money Mule (Romance Variation):**
 - The Setup: In a romance scam, the victim is told the "partner" doesn't have access to their own bank account.
@@ -129,10 +119,9 @@ Key Trends:
 - The Crime: They receive funds (often from fraud victims) into their account and transfer them elsewhere, keeping a percentage.
 - The Risk: Both types face criminal charges—ignorance is not always a legal defense.
 
----
 
-# Slide 12
-## Specific Example: Job Scams (The Fastest Growing)
+## Slide 12
+### Specific Example: Job Scams (The Fastest Growing)
 
 - The Solicitation: Victims are contacted via unsolicited SMS (text messages) or social media apps like Telegram and WhatsApp. They often use the names of real, reputable Canadian companies to gain trust.
 - The Task Hook: The offer is usually for a remote data entry or product optimizer role. Victims are asked to complete simple tasks—like rating videos or boosting products—to earn commissions.
@@ -140,10 +129,9 @@ Key Trends:
 - The Outcome: The platform shows fake earnings that look real, but withdrawals are blocked by fees or taxes.
 - Trend Note: Per the 2024 CAFC report, job scams saw the largest increase in dollar loss ($17M increase) due to the rise of these task-based schemes.
 
----
 
-# Slide 13
-## Red Flags: How to Recognize a Scam
+## Slide 13
+### Red Flags: How to Recognize a Scam
 
 - Payment in Gift Cards: 100% scam. No legitimate organization accepts payment in gift cards.
 - Payment in cryptocurrency: Untraceable and irreversible—scammers love it.
@@ -154,10 +142,9 @@ Key Trends:
 - Threats of Arrest: Government agencies don't threaten immediate arrest over the phone.
 - Caller ID Spoofing: The number looks real (e.g., CRA, bank) but it's fake.
 
----
 
-# Slide 14
-## Questions?
+## Slide 14
+### Questions?
 
 - Open the floor for questions from the audience.
 - Be prepared to discuss: specific scam examples, personal experiences (if appropriate), additional resources, and what to do if they suspect they're being targeted right now.

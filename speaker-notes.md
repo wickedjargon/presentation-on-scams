@@ -31,8 +31,13 @@ Source:
 # Slide 3
 ## Summary: Top 10 Frauds Based on Dollar Loss
 
-*(Insert graph or list here)*
-
+- investment scam: example: invest in a cryptocurrency project 
+- spear phishing: example: a scammer impersonating your boss via email to request an urgent wire transfer
+- romance scam: example: a person pretending to be in love with you to get money from you
+- job scam: example: a person posing as a job provider to get money from you
+- extortion: example: sextortion—blackmail using intimate images, or threats to expose browsing history
+- service scam: example: a person posing as a service provider to get money from you (tech support)
+- 
 ---
 
 # Slide 4
@@ -75,10 +80,12 @@ Key Trends:
 ---
 
 # Slide 7
-## Specific Example: Cryptocurrency Scam
+## Specific Example: Investment Scam
 
-- The Connection: This is often associated with a romance scam (sometimes called "Pig Butchering").
-- The Pivot: The victim is presented with an investment opportunity by the scammer, who is pretending to play the role of their romantic partner.
+- Crypto Dominance: Cryptocurrency fraud makes up 70%+ of investment scam losses ($224M+ in 2024).
+- Fake Platforms: Victims are lured to professional-looking trading websites that show fake gains—withdrawals are blocked.
+- AI Deepfakes: Scammers use AI-altered videos of celebrities endorsing fake crypto projects.
+- The Hook: Promises of "guaranteed" high returns with no risk.
 
 ---
 
@@ -110,13 +117,21 @@ Key Trends:
 ---
 
 # Slide 11
-## Specific Example: Money Mule (Romance Variation)
+## Money Mules: Complicit vs. Unknowing
 
+**Unknowing Money Mule (Romance Variation):**
 - The Setup: In a romance scam, the victim is told the "partner" doesn't have access to their own bank account.
 - The Task: They are told that others will send money to the victim, and the victim must convert that money into cryptocurrency or gift cards to send to the partner.
 - The Reality: The victim has become a money launderer without knowing it.
 
-# Slide 14
+**Complicit Money Mule:**
+- The Setup: The person knowingly agrees to move money for others, often recruited through job ads or social media promising "easy money."
+- The Crime: They receive funds (often from fraud victims) into their account and transfer them elsewhere, keeping a percentage.
+- The Risk: Both types face criminal charges—ignorance is not always a legal defense.
+
+---
+
+# Slide 12
 ## Specific Example: Job Scams (The Fastest Growing)
 
 - The Solicitation: Victims are contacted via unsolicited SMS (text messages) or social media apps like Telegram and WhatsApp. They often use the names of real, reputable Canadian companies to gain trust.
@@ -124,3 +139,26 @@ Key Trends:
 - The Trap: To level up to higher-paying tasks or to reset a negative balance in their account, the victim is told they must deposit their own funds, usually via cryptocurrency.
 - The Outcome: The platform shows fake earnings that look real, but withdrawals are blocked by fees or taxes.
 - Trend Note: Per the 2024 CAFC report, job scams saw the largest increase in dollar loss ($17M increase) due to the rise of these task-based schemes.
+
+---
+
+# Slide 13
+## Red Flags: How to Recognize a Scam
+
+- Payment in Gift Cards: 100% scam. No legitimate organization accepts payment in gift cards.
+- Payment in cryptocurrency: Untraceable and irreversible—scammers love it.
+- Wire Transfers to Strangers: Once sent, the money is gone.
+- Extreme Urgency: "You must act RIGHT NOW!" Real organizations give you time to think.
+- Too Good to Be True: Guaranteed high returns, lottery winnings you didn't enter, unbelievable deals.
+- Requests for Passwords or Remote Access: No legitimate company needs your password or to control your computer.
+- Threats of Arrest: Government agencies don't threaten immediate arrest over the phone.
+- Caller ID Spoofing: The number looks real (e.g., CRA, bank) but it's fake.
+
+---
+
+# Slide 14
+## Questions?
+
+- Open the floor for questions from the audience.
+- Be prepared to discuss: specific scam examples, personal experiences (if appropriate), additional resources, and what to do if they suspect they're being targeted right now.
+- raising awareness massage: if you suspect someone in you family or friend group, please help them recover

@@ -1,4 +1,4 @@
 ;;; Directory Local Variables
 ;;; For more information see (info "(emacs) Directory Variables")
 
-((nil (compile-command . "sent scam-prevention.sent ")))
+((nil (compile-command . "sent scam-prevention")))

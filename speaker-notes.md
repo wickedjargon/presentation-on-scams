@@ -1,3 +1,7 @@
+- demonstrate in the presentation ai image generation
+- demonstrate audio generation
+- demonstrate html editing
+
 ## Slide 1
 ### Summary: Overall Dollar Loss Breakdown (2020–2024)
 
